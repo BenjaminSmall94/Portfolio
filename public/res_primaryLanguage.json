@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Benjamin Small. I am a Problem solver passionate about using code to solve the relevant issues of today! I am a talented Software Developer with a background in Engineering and Military Leadership.\n\nI'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is my portfolio from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,97 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "MatchStravaganza",
+        "startDate": "2022",
+        "description": "A matching game that allows players to strengthen their memory in an engaging way while enjoying gazing upon cute pictures of pets! They compete against the clock and previous scores to improve their high scores while building their memory. It allows you to reset the deck at any point during or after the game, and allows you to change your username",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/MatchStravaganza/Matchstravaganza Screenshot.png"
         ],
-        "url": "",
+        "url": "https://codefellows-code-201-group-project.github.io/memory-game/",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Bus Mall",
+        "startDate": "2022",
+        "description": "Allows users to vote for favorite products for use in a theoretical bus based catalog. It then displays the results in table and graphical form. Additionally it's customizable by number of rounds and number of pictures.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/BusMall/BusMall - Photos - Screenshot.png",
+          "images/portfolio/BusMall/BusMall - Chart - Screenshot.png"
         ],
-        "url": "https://github.com",
+        "url": "https://benjaminsmall94.github.io/BusMall/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      },
+      {
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "This first project I developed at Code Fellows. It generated tables representing theoretical demand for cookies at various cookie stands throughout the world and correlates that to staffing needs per hour. Various customizable parameters enable the user to simulate demand under different circumstances/assumptions",
+        "images": [
+          "images/portfolio/SalmonCookies/Salmon-Cookies - Screenshot.png"
+        ],
+        "url": "https://benjaminsmall94.github.io/cookie-stand/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Army National Guard",
+        "title": "Aviation Officer",
+        "years": "09.2013 - Present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Piloting Blackhawk Helicopter"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Leading/Training soldiers in austere environments"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Clarisonic",
+        "title": "Manufacturing Engineering Intern",
+        "years": "06.2015 - 12.2015",
         "mainTech": [
-          "Angular 7/8"
+          "Java"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Visual Basic for Applications"
         ]
       }
     ]
